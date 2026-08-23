@@ -1,5 +1,8 @@
 package com.chase.uitil;
 
+import com.chase.model.Employee;
+import com.chase.model.EmployeeData;
+
 import java.util.*;
 import java.util.function.Function;
 import java.util.function.IntUnaryOperator;
