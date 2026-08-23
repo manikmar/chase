@@ -1,0 +1,15 @@
+server:
+  port: 9012
+
+spring:
+  application:
+    name: chase
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/evan
+    username: root
+    password: Database@19
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
