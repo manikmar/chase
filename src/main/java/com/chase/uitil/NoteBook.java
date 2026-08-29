@@ -42,7 +42,6 @@ public class NoteBook {
     right = 6
     👉 equal → answer = true
     */
-
     public static boolean balancedArray(int[] arr){ //int[]{1, 2, 3, 4, 6}
         int totalSum = 0;
         int leftSum = 0;
