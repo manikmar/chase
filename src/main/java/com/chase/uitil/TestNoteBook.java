@@ -6,6 +6,7 @@ public class TestNoteBook {
         System.out.println("Welcome to the Git Rebase...!");
         System.out.println("Welcome to the Git to get latest changes from dev-162(main) branch...!");
         System.out.println("test update intellij feature");
-        
+
+         System.out.println("intellij pull with rebase option");
     }
 }
