@@ -31,6 +31,7 @@ public class NoteBook {
             double value = sign / (2 * i + 1);
             piValue += value;
         }
+         System.out.println("$$$$$$---->");
         return piValue * 4;
     }
 
