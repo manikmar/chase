@@ -25,6 +25,7 @@ public class NoteBook {
 
     //1-1/3+1/5-1/7+1/9-...=pi4
     public static double find_PiValue_UpTo_Given_Number(int N) {
+        System.out.println("$$$$$$---->");
         double piValue = 0.0;
         for(int i = 0; i < N; i++) {
             double sign = (i % 2 == 0) ? 1 : -1;
