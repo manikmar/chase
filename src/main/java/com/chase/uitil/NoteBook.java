@@ -57,6 +57,7 @@ public class NoteBook {
             }
             leftSum = leftSum+arr[i];
         }
+        System.out.println("&&&&-->");
         return value;
     }
 
