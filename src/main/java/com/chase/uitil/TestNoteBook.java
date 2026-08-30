@@ -6,6 +6,7 @@ public class TestNoteBook {
         System.out.println("Evan");
         System.out.println("Ethan");
         System.out.println("Mom");
-       
+        System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&");
+        System.out.println("#####################################");
     }
 }
