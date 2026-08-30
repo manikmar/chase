@@ -4,5 +4,6 @@ public class TestNoteBook {
 
     public static void main(String[] args) {
         System.out.println("From Main --->");
+         System.out.println("1---->From Main --->");
     }
 }
