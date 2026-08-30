@@ -1123,6 +1123,7 @@ public class NoteBook {
 
 
     public static void main(String[] args) throws Exception {
+        System.out.println("From Main only ---->");
         //testMap();
         //testLimit();
         //studentMapWithAverage();
