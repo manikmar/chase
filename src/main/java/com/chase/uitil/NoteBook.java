@@ -1123,6 +1123,7 @@ public class NoteBook {
 
 
     public static void main(String[] args) throws Exception {
+        System.out.println("From Main only ---->");
         System.out.println("1------>From Main only ---->");
         //testMap();
         //testLimit();
