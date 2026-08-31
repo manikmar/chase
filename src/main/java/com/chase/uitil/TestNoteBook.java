@@ -4,8 +4,5 @@ public class TestNoteBook {
 
     public static void main(String[] args) {
         
-        System.out.println("test Data");
-        System.out.println("Data From Dev");
-        System.out.println("From fea ------->");
     }
 }
