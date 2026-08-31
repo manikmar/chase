@@ -3,10 +3,7 @@ package com.chase.uitil;
 public class TestNoteBook {
 
     public static void main(String[] args) {
-        System.out.println("Evan");
-        System.out.println("Ethan");
-        System.out.println("Mom");
-        System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&");
-        System.out.println("#####################################");
+        //data_1
+        System.out.println("HI");
     }
 }
